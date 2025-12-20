@@ -1,0 +1,11 @@
+# Brain Math Challenge - Robots.txt
+# Allow all crawlers to access all content
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://brainmathchallenge.com/sitemap.xml
+
+# Crawl-delay (optional, helps prevent overloading)
+Crawl-delay: 1
