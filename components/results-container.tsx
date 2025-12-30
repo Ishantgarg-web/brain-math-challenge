@@ -106,10 +106,6 @@ export function ResultsContainer() {
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-1 text-sm text-muted-foreground">
-                    <Clock className="h-4 w-4" />
-                    <span>{result.timeSpent.toFixed(1)}s</span>
-                  </div>
                 </div>
               </Card>
             ))}
