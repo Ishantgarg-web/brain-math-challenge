@@ -28,7 +28,7 @@ export const LEVELS: LevelConfig[] = [
   {
     id: "level0",
     name: "Level 0",
-    description: "Single-digit addition - Perfect for beginners",
+    description: "Upto Double-digit addition and subtraction - Perfect for beginners",
     minDigits: 1,
     maxDigits: 2,
     operations: ["+", "-"],
@@ -37,7 +37,7 @@ export const LEVELS: LevelConfig[] = [
   {
     id: "level1",
     name: "Level 1",
-    description: "Single-digit operations - Basic arithmetic practice",
+    description: "Upto Double-digit operations - Basic arithmetic practice",
     minDigits: 2,
     maxDigits: 2,
     operations: ["+", "-", "×"],
@@ -46,7 +46,7 @@ export const LEVELS: LevelConfig[] = [
   {
     id: "level2",
     name: "Level 2",
-    description: "Multi-digit addition - Build your skills",
+    description: "Multi-digit addition and subtraction - Build your skills",
     minDigits: 2,
     maxDigits: 3,
     operations: ["+", "-"],
